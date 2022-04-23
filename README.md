@@ -18,9 +18,11 @@ Then use the notebooks for model training or predicting.
 We can load one of the pretrained weight provided in the "SaveWeights"
 
 The architecture of the models are described below:
+\
+
 ![conv3dDiagram](https://user-images.githubusercontent.com/83718299/164873169-d811294f-3d1a-4001-afa2-338ab7276d3c.jpg)
 
-\\
+\
 
 ![convLSTMDiagram](https://user-images.githubusercontent.com/83718299/164873173-55c08cc1-1647-4558-a839-8ce9b1020b29.jpg)
 
