@@ -27,10 +27,11 @@ The architecture of the models are described below:
 ![convLSTMDiagram](https://user-images.githubusercontent.com/83718299/164873173-55c08cc1-1647-4558-a839-8ce9b1020b29.jpg)
 
 The result from the models is below:
-The top left represent : Input
-The top right represent : Ground Truth
-The down left represent output from : Conv3d
-The down right represent output from : ConvLSTM
+The top left represent : Input\
+The top right represent : Ground Truth\
+The down left represent output from : Conv3d\
+The down right represent output from : ConvLSTM\
+
 https://user-images.githubusercontent.com/83718299/164873408-004020b6-a2d2-4b2c-b11d-e6142a58dba1.mp4
 
 Furture Work:
