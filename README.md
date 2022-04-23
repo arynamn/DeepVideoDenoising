@@ -27,7 +27,16 @@ The architecture of the models are described below:
 ![convLSTMDiagram](https://user-images.githubusercontent.com/83718299/164873173-55c08cc1-1647-4558-a839-8ce9b1020b29.jpg)
 
 The result from the models is below:
-https://github.com/arynamn/DeepVideoDenoising/blob/main/Videos/result.mp4
+The top left represent : Input
+The top right represent : Ground Truth
+The down left represent output from : Conv3d
+The down right represent output from : ConvLSTM
+https://user-images.githubusercontent.com/83718299/164873408-004020b6-a2d2-4b2c-b11d-e6142a58dba1.mp4
+
+Furture Work:
+ConvLSTM requires a powerful gpu to be trained properly. 
+And currently all the input and output resolution is set to 640x360.
+We aim to make the model work on patches to generate a proper result.
 
 References:
 1. https://github.com/shuochsu/DeepVideoDeblurring
